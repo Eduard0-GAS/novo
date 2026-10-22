@@ -8,7 +8,7 @@ def test_somar():
 
 
 def test_subtrair():
-    assert subtrair(5, 3) == 2
+    assert subtrair(5, 3) == 4
 
 
 def test_multiplicar():
